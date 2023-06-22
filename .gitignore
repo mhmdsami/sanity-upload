@@ -1,0 +1,27 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+.pnpm-debug.log*
+
+# local env files
+.env
+
+# editor config
+.vscode/
+.idea/
+
+# details
+members.json
+
+# backups
+backup.json
+
+# images
+images/
